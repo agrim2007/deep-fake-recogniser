@@ -1,9 +1,8 @@
-# Deepfake Audio Sentinel (24h Hackathon Submission)
+# Deepfake Audio Sentinel
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Framework](https://img.shields.io/badge/Framework-Flask-green)
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
-![Timeline](https://img.shields.io/badge/Time-24%20Hours-orange)
 
 ---
 
@@ -56,7 +55,7 @@ Unlike basic black-box models, our system looks for specific digital artifacts:
 
 ## Team & Contributions
 
-This project was built collaboratively in under 24 hours:
+The team behind this project:
 
 * **Mayur:** Frontend Development & UI/UX Design.
 * **Shreeya:** Backend Architecture & API Integration.
